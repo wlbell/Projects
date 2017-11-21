@@ -1,0 +1,103 @@
+(110','12.4','18.8','Skypole','YES','Gill Athletics','124)
+115','12','23.3','Lady Rocket','YES','MF Athletics','120
+120','12','20.5','Spirit','YES','UCS','120
+120','12.4','20.3','Skypole','YES','Gill Athletics','124    
+125','13','24.5','Spirit','YES','UCS','125
+130','11','18','Skypole','NO','Gill Athetics','130
+130','12','26.4','Spirit','NO','UCS','130
+130','13','23.5','Spirit','YES','Gill Athetics','130
+130','13.6','24.4','Skypole','NO','Gill Athetics','136
+135','13','22.7','Spirit','YES','UCS','130
+140','12','25.3','Spirit','NO','UCS','120
+140','12.6','23.6','Pacer','YES','Gill Athletics','126
+140','13.1','20.8','Skypole','YES','Gill Athletics','131
+140','13','22','Spirit','YES','UCS','130
+145','11','22.3','Big Stick','YES','On Track','110
+145','12','21.4','Big Stick','YES','On Track','120
+145','13','20.8','Spirit','NO','UCS','120
+145','13','20.1','Lady Rocket','NO','MF Athletics','130
+145','14','22.4','Spirit','NO','UCS','140
+145','14','22.6','Spirit','NO','UCS','140
+150','12.4','20.3','Skypole','YES','Gill Athletics','124
+150','13.3','20.3','PowerX','NO','ESSX','133
+150','13.9','20.4','PowerX','YES','ESSX','139
+150','14','20.4','Spirit','NO','UCS','140
+155','12.4','21.1','Big Stick','YES','On Track','124
+155','13','18.8','Spirit','YES','UCS','130
+155','13.6','20.3','Pacer','YES','GIll Athletics','136
+155','14','19.4','Spirit','NO','UCS','140
+160','13','17.2','Skypole','YES','Gill Athletics','130','
+160','13.3','18.4','PowerX','YES','ESSX','133
+160','13.7','20.4','Spirit','YES','UCS','137
+160','14','18.1','Spirit','YES','UCS','140
+160','14.6','21.7','Pacer','NO','Gill Athletics','146
+165','13.7','19.6','Spirit','NO','UCS','137
+165','13.9','17.8','PowerX','YES','ESSX','139
+165','14.6','20.2','Pacer','NO','Gill Athletics','146
+165','15','17.2','Pacer','NO','Gill Athletics','150
+165','15','20.6','Pacer','YES','Gill Athletics','150
+170','13','16.6','Skypole','YES','Gill Athletics','130
+170','14','16.1','Spirit','YES','UCS','140
+170','14','17.2','Pacer','NO','Gill Athletics','140
+175','14','15.2','Spirit','NO','UCS','140
+175','14.7','18.5','Spirit','NO','UCS','147
+180','13','13.4','Skypole','YES','Gill Athletics','130
+125','10.4','22.2','Big Stick','YES','On Track','104
+110','10.8','22.5','Altius','YES','Altius','108
+120','11','21.4','Pacer','YES ','Gill Athletics','110
+140','11','20.3','Lady Rocket','YES','MF Athletics','110
+150','11','19.4','Pacer','NO','Gill Athletics','110
+125','11.5','21.6','Altius','NO','Altius','115
+125','11.5','21.4','Altius','NO','Altius','115
+110','11.6','23.5','Spirit','NO','UCS','116
+120','11.6','23.7','Spirit','NO','UCS','116
+140','11.6','21.4','Pacer','YES','Gill Athletics','116
+110','12','24.7','Pacer','YES','Gill Athetics','120
+130','12','24.5','Pacer','NO','Gill Athletics','120
+130','12','23.4','Rocket','YES','MF Athletics','120
+140','12','25.3','Spirit','NO','USC','120
+150','12','23.6','Big Stick','NO','On Track','120
+125','12.4','22.5','Altius','YES','Altius','120
+130','12.4','21.9','Lady Rocket','YES MF Athletics','124
+130','12.4','22.1','Altius','YES Altius','124
+145','12.4','20.1','Altius','YES','Altius','124
+150','12.4','21','Altius','YES','Altius','124
+150','12.4','20.8','Rocket','NO',' MF Athletics','124
+130','12.9','19.3','Altius','NO','Altius','129
+135','12.9','18.4','Altius','NO','Altius','129
+155','12.9','19.6','Altius','NO','Altius','129
+135','13','20.3','Pacer','NO','Gill Athletics','130
+140','13','19.6','Pacer','YES','Gill Athletics','130
+140','13','20.6','Spirit','YES','UCS','130
+145','13','21.7','Pacer','YES','Gill Athletics','130
+145','13','21.9','Pacer','NO','Gill Athletics','130
+170','13','17.6','Rocket','NO','MF Athletics','130
+120','13','22.5','Spirit','YES','UCS','130
+150','13','20.3','Spirit','YES','UCS','130
+150','13','20.6','Spirit','YES','UCS','130
+160','13','19.5','Spirit','YES','UCS','130
+165','13.3','18.9','Altius','YES','Altius','133
+135','13.6','21.5','Pacer','YES','Gill Athletics','133 
+145','13.6','19.6','Pacer','NO','Gill Athletics','136
+150','13.6','20.5','Pacer','NO','Gill Athletics','136
+155','13.6','19.7','Big Stick','YES','On Track','136
+160','13.6','20.3','Pacer','YES','Gill Athletics','136
+165','13.6','19.4','Pacer','YES','Gill Athletics','136
+175','13.6','18.4','Rocket','NO','MF Athletics','136
+155','13.7','20.9','Spirit','NO','UCS','137
+165','13.7','19.6','Spirit','NO','UCS','137
+150','14','21.4','Pacer','NO','Gill Athletics','140
+175','14','18.8','Pacer','NO','Gill Athletics','140
+180','14','17.5','Pacer','YES','Gill Athletics','140
+150','14','21.2','Spirit','YES','UCS','140
+155','14','20.5','Spirit','YES','UCS','140
+160','14','19.5','Spirit','YES','UCS','140
+170','14.3','18.9','Altius','YES','Altius','143
+175','14.6','19.6','Pacer','YES','Gill Athletics','146
+180','14.6','19.5','Pacer','YES','Gill Athletics','146
+155','14.7','20.1','Spirit','YES','UCS','147
+165','14.7','18.5','Spirit','YES','UCS','147
+170','14.7','17.8','Spirit','YES','UCS','147
+165','15','19.6','Pacer','YES','Gill Athletics','150
+160','15','20.4','Spirit','NO','UCS','150
+175','15','17.5','Spirit','NO','UCS','150

@@ -1,0 +1,12 @@
+insert into athlete values ('10','Renaud Lavillenie','155','Boyer');
+insert into athlete values ('20','Sergey Bubka','165','Griffin');
+insert into athlete values ('30','Steve Hooker','156','Jarkey'); 
+insert into athlete values ('40','Brad Walker','149','Walters');
+insert into athlete values ('50','Will Bell','170','Palmer');
+insert into athlete values ('60','Alex Edelmann','137','Scott');
+insert into athlete values ('70','Elena Isinbaeva','123','Griffin');
+insert into athlete values ('80','Jen Suhr','150','Jarkey');
+insert into athlete values ('90','Stacy Dragila','137','Walters');
+insert into athlete values ('100','Ally Hemme','111','Palmer');
+insert into athlete values ('110','Erin Smith','132','Boyer');
+insert into athlete values ('120','Emma King','142','Scott');

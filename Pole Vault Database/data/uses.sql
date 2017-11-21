@@ -1,0 +1,14 @@
+insert into athlete_uses values ('180','13','13.4','NO','10','Renaud Lavillenie','155');
+insert into athlete_uses values ('160','13.7','20.4','NO','10','Renaud Lavillenie','155');
+insert into athlete_uses values ('110','12','18.8','NO','100','Ally Hemme','111');
+insert into athlete_uses values ('165','14.6','20.2','NO','20','Sergey Bubka','165');
+insert into athlete_uses values ('155','14','19.4','NO','30','Steve Hooker','156'); 
+insert into athlete_uses values ('145','11','22.3','NO','40','Brad Walker','149');
+insert into athlete_uses values ('170','13','16.6','NO','50','Will Bell','170');
+insert into athlete_uses values ('180','13','13.4','NO','50','Will Bell','170');
+insert into athlete_uses values ('135','13','22.7','NO','60','Alex Edelmann','137');
+insert into athlete_uses values ('120','12','20.3','NO','70','Elena Isinbaeva','123');
+insert into athlete_uses values ('155','13.6','19.7','NO','80','Jen Suhr','150');
+insert into athlete_uses values ('135','13.6','21.5','NO','90','Stacy Dragila','137');
+insert into athlete_uses values ('130','12','23.4','NO','110','Erin Smith','132');
+insert into athlete_uses values ('140','13','20.6','NO','120','Emma King','142');
