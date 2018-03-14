@@ -8,5 +8,4 @@ insert into athlete values ('70','Elena Isinbaeva','123','Griffen');
 insert into athlete values ('80','Jen Suhr','150','Jarkey');
 insert into athlete values ('90','Stacy Dragila','137','Walters');
 insert into athlete values ('100','Ally Hemme','111','Palmer');
-insert into athlete values ('110','Erin Smith','132','Boyer');
-insert into athlete values ('120','Emma King','142','Scott');
+
